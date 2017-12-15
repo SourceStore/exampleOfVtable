@@ -1,5 +1,6 @@
 # exampleOfVtable
-
+http://kaisar-haque.blogspot.ru/2008/07/c-accessing-virtual-table.html
+https://defuse.ca/exploiting-cpp-vtables.htm
 ## Explanation
 Мы сравниваем не первые функции, мы сравниваем адреса виртуальных таблиц (vtable).
 ```
